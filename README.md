@@ -1,2 +1,2 @@
-# covid-resources
-covid19 resources
+# resources
+* fighting against systematic oppression
